@@ -4,7 +4,8 @@ public class Bird {
 
 	public static void main(String[] args) {
 		System.out.println("This is bird");
-		System.out.println("This is duck");
+		System.out.println("This is chciken");
+
 	}
 
 }
